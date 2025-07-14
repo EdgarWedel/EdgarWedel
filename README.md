@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello, my name is Edgar. I am currently taking a training course in frontend software development. 
+I’m currently learning html and css.
 
 <!--
 **EdgarWedel/EdgarWedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
